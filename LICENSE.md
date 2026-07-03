@@ -1,4 +1,4 @@
-# 
+# Principal QueryMind paquete. Descarga e instala con listo para integración y soporte CLI — rápido, seguro y fácil de usar.
 
 
 
